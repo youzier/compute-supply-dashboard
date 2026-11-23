@@ -1,10 +1,11 @@
 Name,Current H100 equivalents,Current power (MW),Current total capital cost (2025 USD billions),Owner,Users,Selected Sources,Calculations sheet,Project,Current chip types,All chip types,Investors,Construction companies,Energy companies,Country,Address
-Colossus 2,1111672.5618999496,946,35.836372,SpaceXAI #confident,"Anthropic #confident, Cursor #confident, SpaceXAI #confident","- [WSJ profile of the Colossus data centers](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d) 
+Colossus 2,1111672.5618999496,946,35.836372,SpaceXAI #confident,"Anthropic #confident, Cursor #confident, SpaceXAI #confident, Reflection #confident","- [WSJ profile of the Colossus data centers](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d) 
 - [Final GPU count reported by Elon Musk](https://x.com/elonmusk/status/1947701807389515912)
 - [MLGW update mentioning power requests for Colossus 2](https://www.mlgw.com/images/content/files/pdf/new/5-5-25%20xAI%20Update.pdf#page=4)
 - [SpaceX-Cursor partnership to use Colossus](https://x.com/SpaceX/status/2046713419978453374)
 - [Anthropic to use Colossus 2 from June 2026](https://x.com/nottombrown/status/2057194829986300375)
 - [SpaceX S-1 filing, mentioning exact compute and power for Colossus 2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+- [Reflection announces compute agreement with SpaceXAI](https://lnkd.in/p/eKekjxXm)
 ",https://docs.google.com/spreadsheets/d/1oZpZ9nTTV6wW0xjc1pPOQmKS7NCyDzuG2HiycC1GqFs/edit?usp=sharing,,"B200,B300","B200,B300",,,,United States,"5420 Tulane Rd, Memphis, TN 38109"
 OpenAI Stargate Abilene,1018696.3112683173,824,31.214768,Oracle #confident,OpenAI #confident,"- [Crusoe 2024 Impact Report, with details on Abilene](https://drive.google.com/file/d/1oHWA9vmpvFOh-LvDy5fgq_wq5ITuxd1r/view?usp=sharing)
 - [Air Permit Application for buildings 1-2, featuring blueprints on p.157](https://drive.google.com/file/d/1FgfX6hqojlBtqNXJHjzJmnwWAMx4_M0b/view?usp=sharing)
@@ -170,7 +171,7 @@ Microsoft Project Osmium,155634.15866599293,190,7.19758,Microsoft #confident,Ope
 YTL Johor,153532.0869125821,113,4.280666,,,"- [Official YTL page for the campus](https://ytldatacenters.com/locations/malaysia/)
 - [YTL press release on the use of GB200's](https://www.ytlpowerinternational.com/press-releases/ytl-creates-one-of-the-worlds-most-advanced-supercomputers-powered-by-nvidia-grace-blackwell-based-dgx-cloud/)
 - [Aerial footage including the campus](https://www.youtube.com/watch?v=HODHjDbFt10)
-",https://docs.google.com/spreadsheets/d/18PuiVirfUfF5O0syOPNGkf-qtNg2viKbaW3v9r5cBBY/edit?gid=2010365208#gid=2010365208,,"B200,B300","B200,B300",,,,Malaysia,"YTL Green Data Centers, Kulai, Johor, Malaysia"
+",https://docs.google.com/spreadsheets/d/18PuiVirfUfF5O0syOPNGkf-qtNg2viKbaW3v9r5cBBY/edit?gid=2010365208#gid=2010365208,,"B200,B300","B200,B300,R200",,,,Malaysia,"YTL Green Data Centers, Kulai, Johor, Malaysia"
 Meta Eagle Mountain,151354.21930267813,133,5.038306,Meta #confident,Meta #confident,"- [Expansion announcement by Meta ](https://www.facebook.com/EagleMountainDataCenter/posts/517902967007646)
 - [Report on Williams Company gas-fired plant under construction adjacent to data cente](https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf)r
 
@@ -344,7 +345,7 @@ Goodnight,0,0,0,Google #speculative,Google DeepMind #speculative,"- [Amended tax
 - [TABS database, with ""Llano"" data centers in the city of Claude](https://www.tdlr.texas.gov/TABS/Search/)
 - [Press release reports Google investing in a new data center in Armstrong County](https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/)
 - [Clean Air Act Initial Prevention of Significant Deterioration permit application.](https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link)
-",https://docs.google.com/spreadsheets/d/1NE3R883YwdkSNVCbVJfy5nMCDy99eNA1wRdwikcJYWk/edit?usp=sharing,,,B300,,"Crusoe,Hoffman",Serena,United States,"10001 Lima Rd, Claude, TX 79019"
+",https://docs.google.com/spreadsheets/d/1NE3R883YwdkSNVCbVJfy5nMCDy99eNA1wRdwikcJYWk/edit?usp=sharing,,,"B300,R200",,"Crusoe,Hoffman",Serena,United States,"10001 Lima Rd, Claude, TX 79019"
 Google Cedar Rapids,0,0,0,Google #confident,Google DeepMind #speculative,"- [MISO new load announcements](https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf), featuring 600 MW for Google in Cedar Rapids
 - [Permit application](https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment) detailing the number of buildings, cooling towers, and backup generators.
 ",https://docs.google.com/spreadsheets/d/1-ywhMnHBDsTCosaOfKibppdxI1n6GzqU1UL-v5Z1sVs/edit?usp=sharing,,,,,,,United States,"5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404"
@@ -357,7 +358,7 @@ Meta Bowling Green,0,0,0,Meta #confident,Meta #confident,"- [Meta letter to Midd
 - [Construction notice for new transmission lines to data center substation](https://drive.google.com/file/d/1YBuaFsslxCAZxlJtSI0rXfNsFqddwaHN/view?usp=sharing)
 - [Ohio Power Siting Board announcement](https://archive.ph/lqgZw)
 - [Apollo Power Generation Project Letter of Notice Appendix A, with a project timeline](https://drive.google.com/file/d/1L154XKyiHqRzeZj36zqMRkjdG7QIFL41/view?usp=drive_link)
-",https://docs.google.com/spreadsheets/d/1DH2kCU99fLYUj28VDjHWoGbx3IahwltzXqcbBEa-pOc/edit?gid=2010365208#gid=2010365208,,,B300,,,Williams,United States,"12356 Middleton Pike, Bowling Green, OH 43402"
+",https://docs.google.com/spreadsheets/d/1DH2kCU99fLYUj28VDjHWoGbx3IahwltzXqcbBEa-pOc/edit?gid=2010365208#gid=2010365208,,,"B300,R200",,,Williams,United States,"12356 Middleton Pike, Bowling Green, OH 43402"
 Meta Hyperion,0,0,0,Meta #confident,Meta #confident,"- [Data center profile by Meta](https://datacenters.atmeta.com/richland-parish-data-center/)
 - [Entergy's application for generation and transmission resources](https://drive.google.com/file/d/1FLY13apaHy4hI8RNVk9n_nlJpwFHtBrB/view?usp=sharing)
 - [MISO update with 1.8 GW substation plan](https://drive.google.com/file/d/1D4eUHwEuirNi0g3IU_xGOti3PcC8fcXi/view?usp=sharing)
@@ -393,7 +394,7 @@ OpenAI Stargate Shackelford,0,0,0,Oracle #confident,OpenAI #confident,"- [Vantag
 OpenAI Stargate UAE,0,0,0,G42 #likely,OpenAI #confident,"- [News update with timelapse of construction](https://www.khaleejtimes.com/uae/stargate-uae-phase-1-in-two-years)
 - [Announcement of the (separate) 100 MW Khazna Ajman data center](https://khaznadatacenters.com/press-release/khazna-announces-the-uaes-first-ai-optimized-data-center-and-the-largest-in-its-portfolio-powering-the-nations-drive-toward-ai-leadership/), which started earlier and has a similar design to the Stargate buildings.
 - [News about the US approval of NVIDIA chips in the UAE](https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae)
-",https://docs.google.com/spreadsheets/d/11es1WqQ3StAuMjFOYQ1wzq6YpwQCb-Uz996EvZpnsAs/edit?usp=sharing,Stargate #confident,,B300,"Softbank,Oracle,NVIDIA,Cisco,G42",,,United Arab Emirates,"Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates"
+",https://docs.google.com/spreadsheets/d/11es1WqQ3StAuMjFOYQ1wzq6YpwQCb-Uz996EvZpnsAs/edit?usp=sharing,Stargate #confident,,"B300,R200","Softbank,Oracle,NVIDIA,Cisco,G42",,,United Arab Emirates,"Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates"
 OpenAI Stargate Wisconsin,0,0,0,Oracle #confident,OpenAI #confident,"- [Data center page on Vantage website](https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin)
 - [Environmental Analysis Summary](https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing)
 ",https://docs.google.com/spreadsheets/d/1fjTxXhhaiFa7x1YBAAa7d2CcUrnSLGNJYOTd6o3xd04/edit?usp=sharing,Stargate #confident,,,,,,United States,
@@ -402,7 +403,7 @@ QTS Cedar Rapids,0,0,0,Meta #speculative,Meta #speculative,"- [MISO new load ann
 - [Article by Corridor Business Journal ](https://corridorbusiness.com/scope-of-qts-data-project-in-cedar-rapids-continuing-to-grow/)featuring a rendering of Buildings 1-3.
 - [Post by GLD Commercial ](https://www.gldcommercial.com/google-and-qts-data/)featuring a map with land assigned to QTS in Big Cedar Industrial Center.
 - [Post by SemiAnalysis](https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be) claiming Meta is the tenant for QTS Cedar Rapids.
-",https://docs.google.com/spreadsheets/d/1zXqoogyqGbmgvdu4vSTepZG3Cy8kMoJjp0n3KaZPkd4/edit?usp=sharing,,,B300,,,Alliant Energy,United States,"6200 76th Ave SW, Fairfax, IA 52228"
+",https://docs.google.com/spreadsheets/d/1zXqoogyqGbmgvdu4vSTepZG3Cy8kMoJjp0n3KaZPkd4/edit?usp=sharing,,,"B300,R200",,,Alliant Energy,United States,"6200 76th Ave SW, Fairfax, IA 52228"
 QTS Eagle Mountain,0,0,0,Meta #speculative,Meta #speculative,"- [QTS Eagle Mountain website](https://q.com/data-centers/eagle-mountain/)
 - [DEQ Approval listing emergency generators](https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf)
 ",https://docs.google.com/spreadsheets/d/1pWiTKivojS1IY4tiv0aHM06FugKbLA2qjLJ-5DFoRF4/edit?usp=sharing,,,B300,,,,United States,"652 E Hyperscale Way, Eagle Mountain, UT 84013"
