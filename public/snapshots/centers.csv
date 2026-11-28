@@ -1,12 +1,12 @@
 Name,Current H100 equivalents,Current power (MW),Current total capital cost (2025 USD billions),Owner,Users,Selected Sources,Calculations sheet,Project,Current chip types,All chip types,Investors,Construction companies,Energy companies,Country,Address
-Colossus 2,1111672.5618999496,946,35.836372,SpaceXAI #confident,"Anthropic #confident, Cursor #confident, SpaceXAI #confident, Reflection #confident","- [WSJ profile of the Colossus data centers](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d) 
+Colossus 2,1475492.6730672056,1246,47.200972,SpaceXAI #confident,"Anthropic #confident, Cursor #confident, SpaceXAI #confident, Reflection #confident","- [WSJ profile of the Colossus data centers](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d) 
 - [Final GPU count reported by Elon Musk](https://x.com/elonmusk/status/1947701807389515912)
 - [MLGW update mentioning power requests for Colossus 2](https://www.mlgw.com/images/content/files/pdf/new/5-5-25%20xAI%20Update.pdf#page=4)
 - [SpaceX-Cursor partnership to use Colossus](https://x.com/SpaceX/status/2046713419978453374)
 - [Anthropic to use Colossus 2 from June 2026](https://x.com/nottombrown/status/2057194829986300375)
 - [SpaceX S-1 filing, mentioning exact compute and power for Colossus 2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
 - [Reflection announces compute agreement with SpaceXAI](https://lnkd.in/p/eKekjxXm)
-",https://docs.google.com/spreadsheets/d/1oZpZ9nTTV6wW0xjc1pPOQmKS7NCyDzuG2HiycC1GqFs/edit?usp=sharing,,"B200,B300","B200,B300",,,,United States,"5420 Tulane Rd, Memphis, TN 38109"
+",https://docs.google.com/spreadsheets/d/1Ilumms2x4NrLLpsl5__Nwr4qsuzW0pJ5MIE1JjoUXK8/edit?usp=sharing,,"B200,B300","B200,B300",,,,United States,"5420 Tulane Rd, Memphis, TN 38109"
 OpenAI Stargate Abilene,1018696.3112683173,824,31.214768,Oracle #confident,OpenAI #confident,"- [Crusoe 2024 Impact Report, with details on Abilene](https://drive.google.com/file/d/1oHWA9vmpvFOh-LvDy5fgq_wq5ITuxd1r/view?usp=sharing)
 - [Air Permit Application for buildings 1-2, featuring blueprints on p.157](https://drive.google.com/file/d/1FgfX6hqojlBtqNXJHjzJmnwWAMx4_M0b/view?usp=sharing)
 - [Mortensen’s profile of the project, with details of substations](https://www.mortenson.com/projects/abilene-data-center-development)
@@ -293,6 +293,15 @@ Vantage TX1,38706.417382516425,32,1.212224,,,"- [Construction Permitting for TX1
 - [Construction Permitting for TX12](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001234)
 - [Air quality permitting that references TX13](https://drive.google.com/file/d/1rbF-RT5Sq-iZ26hK5cKzbM2K4Vq2vObY/view?usp=sharing)
 ",https://docs.google.com/spreadsheets/d/1PA0eDftvbL8OQPbFyoGGPzBK_j1xEtYcZqs-cGOreVE/edit?usp=drivesdk,,B200,B200,,,,United States,"14720 Omicron Dr, San Antonio, TX 78245"
+Mistral Bruyères-le-Châtel,34866.09398686205,31,1.174342,Mistral AI #likely,Mistral AI #confident,"- [Mistral Compute](https://mistral.ai/products/compute/)
+- [Mistral raises $830M in debt for a data center near Paris (TechCrunch)](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)
+- [Eclairion Bruyères-le-](https://baxtel.com/data-center/eclairion-bruyeres-le-chatel)[Châtel ](https://eclairion.com/sites/bruyeres-le-chatel)[facility](https://baxtel.com/data-center/eclairion-bruyeres-le-chatel)
+- [Parc au Château / Eclairion (Commune de Bruyères-le-Châtel)](https://www.bruyereslechatel.fr/parc-au-chateau/eclairion/)
+- [Fluidstack delivering Europe's largest AI supercomputer to Mistral](https://www.businesswire.com/news/home/20250303970989/en/)
+- [Mistral 830M debt for Bruyères-le-Châtel datacenter, 44 MW / 13,800 GB300 (DCmag)](https://www.dcmag.fr/mistral-ai-a-levee-830-millions-en-dette-pour-financer-son-datacenter-de-bruyeres-le-chatel/)
+
+
+",https://docs.google.com/spreadsheets/d/1zbpRm0mkwLHoysI5f-rrXwEwEGan7F_7fwoJrmE3kz8/edit?usp=sharing,,B300,B300,,,,France,"2 Rue de la Libération, 91680"
 CoreWeave Dalton 1 & 2,32238.504295098533,28,1.060696,CoreWeave #confident,OpenAI #speculative,"- [Core Scientific page](https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/)
 - [SEC filing with power utility information](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001140361-25-039864/0001140361-25-039864.pdf)
 - [DCD article](https://www.datacenterdynamics.com/en/news/core-scientific-plans-new-ai-data-centers-in-dalton-georgia/)
@@ -314,6 +323,13 @@ Nscale Keflavik,5821.121778676099,5.11,0.19357702,Nscale #confident,,"- [Nscale 
 - [Verne Keflavík campus specifications](https://www.verne.co/iceland)
 - [Lenovo Nscale Iceland AI infrastructure case study](https://www.lenovo.com/content/dam/lenovo/iso/customer-references-coe/global/en/case-studies/nscale-nvidia/lenovo_nscale_casestudy.pdf)
 ",https://docs.google.com/spreadsheets/d/1rNRBrYaKirxSa_mO-Q5PdcGy5ilOnRkDFOwRSHPF9So/edit?usp=sharing,,B300,B300,,,,Iceland,"Valhallarbraut 868, 262 Reykjanesbær, Iceland"
+Anthropic Abernathy,0,0,0,AI XPV Platform #confident,Anthropic #likely,"- [TeraWulf 8-K with lease details](https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/tm2529509d1_8k.htm)
+- [TeraWulf joint venture announcement](https://investors.terawulf.com/news-events/press-releases/detail/121/terawulf-expands-strategic-partnership-with-fluidstack-through-new-168-mw-ai-compute-joint-venture)
+- [TeraWulf 10-K with building details](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm)
+- [TeraWulf Q4 2025 earnings call](https://www.fool.com/earnings/call-transcripts/2026/02/26/terawulf-wulf-q4-2025-earnings-call-transcript/)
+- [SemiAnalysis on Anthropic’s TPUv7 deal](https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the)
+- [Anthropic-Fluidstack partnership announcement](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)
+",https://docs.google.com/spreadsheets/d/11NQxm8IJ3QRS-i504LiKkyeAVLtIfeGKViIriGaF7nw/edit?usp=sharing,,,TPU v7,"Google,Blackstone",,,United States,"1414 Farm to Market Rd 54, Abernathy, TX 79311"
 Anthropic Barber Lake,0,0,0,Cipher Mining #confident,Anthropic #confident,"- [Cipher signs 168 MW AI hosting deal with Fluidstack, Google backs it (Sep 2025)](https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html)
 - [Cipher adds 56 MW gross to reach 300 MW at Barber Lake (Nov 2025)](https://www.globenewswire.com/news-release/2025/11/20/3191801/0/en/Cipher-Mining-Signs-Additional-56-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html)
 - [Cipher 8-K exhibit: 207 MW total critical IT load (SEC, Nov 2025)](https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm)
@@ -322,6 +338,13 @@ Anthropic Barber Lake,0,0,0,Cipher Mining #confident,Anthropic #confident,"- [Ci
 - [DCD: Cipher secures Fluidstack as customer, Google as investor](https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/)
 - [Air quality permit listing 60 x 3 MW plus 60 x 3.1MW backup generators](https://drive.google.com/file/d/1hzNlH8549ppuCwvKfMo--3PsD-hYBJDa/view?usp=sharing)
 ",https://docs.google.com/spreadsheets/d/1sGialfBa0kKKX7Vm8qL_R6Ce3PSzt7NawpAnWolnTVc/edit,,,TPU v7,,,,United States,
+Anthropic River Bend,0,0,0,AI XPV Platform #confident,Anthropic #confident,"- [Hut 8 announces the 245 MW lease with Fluidstack](https://www.prnewswire.com/news-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-7-0-billion-302644600.html)
+- [Hut 8 announces its partnership with Anthropic and Fluidstack](https://canada.hut8.com/resources/press-releases/hut-8-announces-ai-infrastructure-partnership-with-anthropic-and-fluidstack)
+- [Hut 8 bond filing with power and project details](https://www.sec.gov/Archives/edgar/data/0001964789/000110465926053247/tm2613163d1_8k.htm)
+- [Axios site tour, with building and data hall details](https://www.axios.com/local/new-orleans/2026/10/07/data-center-louisiana-hut-8-anthropic)
+- [The Advocate on construction progress and Phase II plans](https://www.theadvocate.com/baton_rouge/news/communities/west_feliciana/st-francisville-data-center-construction-river-bend-hut8/article_4e6499a4-39b5-4137-9a32-b1bfd37a4dc4.html)
+- [Jacobs press release with the data hall schedule](https://s205.q4cdn.com/384284279/files/doc_news/Jacobs-Appointed-Engineering-Procurement-and-Construction-Management-Lead-for-Hut-8-AI-Data-Center-2026.pdf)
+",https://docs.google.com/spreadsheets/d/1kCo00wlXHNuHPiV0Egc2ndquv1hSfc9XBlyjJGrEyv4/edit?usp=sharing,,,TPU v7,,,,United States,"PM7P+P3, St. Francisville, LA 70775"
 CoreWeave Lancaster Greenfield site,0,0,0,CoreWeave #confident,OpenAI #speculative,"- [CoreWeave announces plans to spend $6 billion on Lancaster data centers](https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx)
 - [Machine Investment Group purchases two former printing press sites in Lancaster, Pennsylvania](https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com)
 ",https://docs.google.com/spreadsheets/d/1eg37hTqVXt4hHVHSgpc1Z95W8uDgpGW9j9IbrmNbJsM/edit?usp=sharing,,,,Blue Owl Capital,,,United States,"216 Greenfield Rd, Lancaster, PA 
@@ -363,7 +386,7 @@ Meta Hyperion,0,0,0,Meta #confident,Meta #confident,"- [Data center profile by M
 - [Entergy's application for generation and transmission resources](https://drive.google.com/file/d/1FLY13apaHy4hI8RNVk9n_nlJpwFHtBrB/view?usp=sharing)
 - [MISO update with 1.8 GW substation plan](https://drive.google.com/file/d/1D4eUHwEuirNi0g3IU_xGOti3PcC8fcXi/view?usp=sharing)
 - [S&P Global ratings research with 2.064 GW campus details](https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101653176)
-",https://docs.google.com/spreadsheets/d/1cyXcZ_jIsJDjuPKx6_J1scIWeq0-rfM3-2GcSKN4oA0/edit?usp=sharing,Hyperion #confident,,,,Mortenson,Entergy,United States,"Holly Ridge, LA 71269"
+",https://docs.google.com/spreadsheets/d/1gd_FIawlBoKuPhkPnNGh56yeuWUSa5wQnn2US9FO_Bw/edit?usp=sharing,Hyperion #confident,,R200,,Mortenson,Entergy,United States,"Holly Ridge, LA 71269"
 Microsoft Narvik Norway,0,0,0,Nscale #likely,Microsoft #likely,"- [Nscale announcing more than 30.000 Rubin GPUs](https://www.nscale.com/press-releases/nscale-microsoft-norway)
 - [NScale announcing 230 initial MW and possibly an additional 290MW, mentioning 100.000 Nvidia GPUs](https://www.nscale.com/blog/stargate-norway-laying-the-foundation-for-the-future-of-ai)
 - [Local hydropower facilities will fulfill new demand at 4 to 5 cents per unit for electricity](https://time.com/article/2026/06/03/ai-norway-nscale-data-center/)
